@@ -21,7 +21,7 @@ class EvenNumbers extends React.Component{
     <div> Odd Numbers : {OddNum}</div><br></br>
     </div>);
  
-    }
+    } 
 }
 
 export default EvenNumbers;
