@@ -59,7 +59,7 @@ class CustomerDetails extends React.Component {
     }
 
 
-}
+} 
 
 
 export default CustomerDetails;

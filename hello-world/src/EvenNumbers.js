@@ -20,8 +20,8 @@ class EvenNumbers extends React.Component{
     <div>Even Numbers : {EvenNum}</div><br></br>
     <div> Odd Numbers : {OddNum}</div><br></br>
     </div>);
-
-    }
-}
+ 
+    } 
+} 
 
 export default EvenNumbers;
