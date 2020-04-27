@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.header{
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding-bottom: 10px;
+}
+
+a{
+  color: white;
+}
+
+.errdiv{
+  color: red;
+}
+
+.home_div{
+  margin: 20px;
+}
+
+.addtask_div input{
+  width: 80%;
+}
+.addtask_div button{
+  width: 20%;
+  line-height: 0.9;
+}
+
+table td button{
+  float: right;
+}
+
+.completed{
+  text-decoration: line-through;
+}
+
+.status-bar{
+  background-color: rgb(194, 194, 194);
+}
+
+#status button{
+  border: none;
+}
